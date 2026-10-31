@@ -1,1 +1,3 @@
-# chenlijun-finance-portfolio<br/>> <span class="emoji emoji1f4c8"></span> 金融学Python量化项目作品集<br/><br/>## Project01 上证指数 vs 创业板指数 相关性与风险指标分析<br/>![指数对比图](sh000001_vs_sz399006_index_compare.png)<br/><br/>### ✅项目说明<br/>- <span class="emoji emoji1f4c8"></span>标的：上证指数(sh000001)、创业板指(sz399006)<br/>- 🧮计算指标：年化收益率、最大回撤、滚动波动率、指数相关性<br/>- <span class="emoji emoji1f3af"></span>目标：对比两大宽基指数历史走势，分析收益与风险特征
+# chenlijun-finance-portfolio<br/>> <span class="emoji emoji1f4c8"></span> 金融学Python量化项目作品集<br/><br/>## Project01 上证指数 vs 创业板指数 相关性与风险指标分析<br/>
+![指数对比图](sh000001_vs_sz399006_index_compare.png2.png)
+![指数对比图](sh000001_vs_sz399006_index_compare.png)<br/><br/>### ✅项目说明<br/>- <span class="emoji emoji1f4c8"></span>标的：上证指数(sh000001)、创业板指(sz399006)<br/>- 🧮计算指标：年化收益率、最大回撤、滚动波动率、指数相关性<br/>- <span class="emoji emoji1f3af"></span>目标：对比两大宽基指数历史走势，分析收益与风险特征
